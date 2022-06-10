@@ -3,8 +3,7 @@ A fierce character in the anime haikyuu.
 
 # Tech-Stack Used
 
-HTML
-CSS
+HTML & CSS
 
 # Link to the website
 
