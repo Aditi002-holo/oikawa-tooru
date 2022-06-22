@@ -131,6 +131,30 @@ a {
     color: #000;
 }
 
+@media(max-width: 768px) {
+    .navbar {
+        display: none;
+    }
+
+    .container {
+        text-align: left;
+        background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url(images/pic-1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .row .col h1{
+        font-size: 2rem;
+        padding: 10px 0;
+    }
+
+    .card {
+        display: none;
+    }
+
+
+}
+
 
 
 
